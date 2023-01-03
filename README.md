@@ -1,1 +1,2 @@
-# tf_experiments
+# Tensorflow learnings  
+To go revise learnings
